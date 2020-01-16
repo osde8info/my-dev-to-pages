@@ -1,1 +1,10 @@
-[]
+[
+{
+    "id": 239000,
+    "relativePathToArticle": "./blog-posts/239000/239000.md"
+  },
+{
+    "id": 239001,
+    "relativePathToArticle": "./blog-posts/239001/239001.md"
+  }
+]
