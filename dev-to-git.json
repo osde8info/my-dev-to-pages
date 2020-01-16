@@ -5,6 +5,18 @@
   },
   {
     "id": 239001,
-    "relativePathToArticle": "./blog-posts/239001/239001.md"
+    "relativePathToArticle": "./blog-posts/239000/239001.md"
+  },
+  {
+    "id": 239620,
+    "relativePathToArticle": "./blog-posts/239620/239620.md"
+  },
+  {
+    "id": 239621,
+    "relativePathToArticle": "./blog-posts/239621/239621.md"
+  },
+  {
+    "id": 239622,
+    "relativePathToArticle": "./blog-posts/239622/239622.md"
   }
 ]
